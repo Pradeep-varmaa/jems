@@ -106,7 +106,7 @@ export default function About() {
             succeed in an ever-changing world. We look forward to partnering with you in your
             child's educational journey.
           </p>
-          <p className="mt-6 font-semibold text-blue-100">- Dr. Ramesh Kumar, Principal</p>
+          <p className="mt-6 font-semibold text-blue-100">- J. Zechariah, Correspondent</p>
         </motion.div>
       </div>
     </section>

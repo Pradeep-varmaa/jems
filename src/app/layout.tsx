@@ -13,8 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Janaki Groups",
-  description: "Janaki Groups is a leading educational master in West-Godavari District, Andhra Pradesh, India.",
+  title: "Janaki English Medium School",
+  description: "Janaki Groups is a leading educational institution in West-Godavari District, Andhra Pradesh, India.",
+   icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({
