@@ -100,7 +100,7 @@ export default function Contact() {
               <div className="w-full h-full bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center">
                 <div className="text-center">
                   <MapPin className="mx-auto text-blue-600 mb-2" size={40} />
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15308.091617918524!2d81.62979445156074!3d16.42366309893153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37d7020187b571%3A0xce3cfe3b3c6637f3!2sJanaki%20School!5e0!3m2!1sen!2sin!4v1781154788493!5m2!1sen!2sin" width="600" height="450"  allowFullScreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15308.091617918524!2d81.62979445156074!3d16.42366309893153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37d7020187b571%3A0xce3cfe3b3c6637f3!2sJanaki%20School!5e0!3m2!1sen!2sin!4v1781154788493!5m2!1sen!2sin" width="600" height="450"  loading="lazy"></iframe>
                 </div>
               </div>
             </div>
